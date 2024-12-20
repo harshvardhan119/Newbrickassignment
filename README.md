@@ -77,7 +77,7 @@ src/
 - Remove employees by clicking the "Delete" button.
 
 ## Video Demo
-Check out the video demo of the project [here](#).
+Check out the video demo of the project https://www.loom.com/share/c9c0ec68e111449cbc7a87ed75785d97?sid=0b2634b3-9a15-4aad-9571-eb067a50414b.
 
 ## Future Enhancements
 - Implement persistent storage using local storage or a backend API.
